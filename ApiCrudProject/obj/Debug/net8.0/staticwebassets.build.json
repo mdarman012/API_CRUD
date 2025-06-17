@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "fdggoyocqahWleFFV7/Tdlw+dXDLP/bQgdHDwXAER24=",
+  "Source": "ApiCrudProject",
+  "BasePath": "_content/ApiCrudProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiCrudProject\\wwwroot",
+      "Source": "ApiCrudProject",
+      "ContentRoot": "C:\\API_CRUD\\ApiCrudProject\\ApiCrudProject\\wwwroot\\",
+      "BasePath": "_content/ApiCrudProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
