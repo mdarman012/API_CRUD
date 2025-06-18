@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCrudProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0a1e45f72694b109c48bd619b2435f91684dd0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCrudProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCrudProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
